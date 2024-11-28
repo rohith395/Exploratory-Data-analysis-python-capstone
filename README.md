@@ -44,6 +44,8 @@ based analysis.
     Discover which team and position have the highest salary expenditure.
   
     Investigate if there's any correlation between age and salary, and represent it visually.
-6.Data visualization
+
+   
+5.Data visualization
    Data visualization: Describe the visualizations created to explore relationships and patterns in the data.
    barplot, scatter plots,pie chart,pairplot are used to visualize the my finding effectively.
